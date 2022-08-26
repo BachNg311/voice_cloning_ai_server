@@ -47,4 +47,4 @@ Run the server and navigate to <localhost:3000/docs>.
 
 ## License
 
-This repository is licensed under the [AGPL-3.0 license](LICENSE).
+This repository is licensed under the [MIT LICENSE](LICENSE).
